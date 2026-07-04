@@ -280,4 +280,3 @@ Made with ❤️ and built for athletes everywhere.
 ⭐ Star this repo if you find it useful!
 
 </div>
->>>>>>> 75f6ed38b8f4577a4e9fd586cdf4b1ad91929453
